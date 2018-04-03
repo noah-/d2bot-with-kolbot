@@ -1,6 +1,6 @@
 # D2BS IS NOT SAFE FROM DETECTION!
 
-## Discord Channel
+## Discord Channel 
 - https://discord.gg/FuBG8N2
 
 ## Install Dependencies - DO THIS FIRST!
